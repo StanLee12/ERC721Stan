@@ -1,0 +1,17 @@
+{
+  "name": "ERC721Stan",
+  "version": "1.0.0",
+  "description": "This is a sample project of [OpenZeppelin contracts](https://openzeppelin.com/contracts/).",
+  "main": "truffle-config.js",
+  "scripts": {
+    "build": "cfxtruffle compile",
+    "deploy": "cfxtruffle deploy"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@openzeppelin/contracts": "^4.2.0",
+    "conflux-truffle": "^1.0.2"
+  }
+}
